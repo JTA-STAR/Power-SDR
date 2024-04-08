@@ -1,6 +1,9 @@
 # Power-SDR
 A Desktop Raspberry Pi OS for OpenWebRX Plus, based on OpenWebRX Plus IMG, adding Desktop, Rustdesk, VNCServer, SVXLink Service.
 
+![Power-SDR-group io-cover](https://github.com/JTA-STAR/Power-SDR/assets/22002824/3887c907-8d73-4ef8-a075-0e5e5c76b9b2)
+
+
 ## Project homepage and Users guide
 [https://github.com/JTA-STAR/Power-SDR](https://github.com/JTA-STAR/Power-SDR)
 
