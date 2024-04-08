@@ -7,6 +7,9 @@ A Desktop Raspberry Pi OS for OpenWebRX Plus, based on OpenWebRX Plus IMG, addin
 ## Subscribe for updates, feedback on issues:
 [https://j-star.groups.io/g/Power-SDR/](https://j-star.groups.io/g/Power-SDR/)
 
+## Download IMG:
+https://drive.google.com/drive/folders/1v69_VdqSK16YXNz4-mUTscs-9GFW9QBs?usp=drive_link
+
 ## Recommended device:
 Raspberry Pi 4B2G, 4B4G, 3B, 3A ZW performance is relatively poor (not supporting 5B yet)
 8G/16G C10+ TF/SD card
