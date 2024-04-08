@@ -1,0 +1,12 @@
+[submodule "SDRPlusPlus"]
+	path = SDRPlusPlus
+	url = https://github.com/AlexandreRouma/SDRPlusPlus.git
+	branch = master
+[submodule "svxlink"]
+	path = svxlink
+	url = https://github.com/sm0svx/svxlink.git
+	branch = master
+[submodule "SvxLink-ZR6LSD-installScript"]
+	path = SvxLink-ZR6LSD-installScript
+	url = https://github.com/ZR6LSD/SvxLink.git
+	branch = main
