@@ -10,3 +10,7 @@
 	path = SvxLink-ZR6LSD-installScript
 	url = https://github.com/ZR6LSD/SvxLink.git
 	branch = main
+[submodule "openwebrxplus1.2.49"]
+	path = openwebrxplus1.2.49
+	url = https://github.com/luarvique/openwebrx.git
+	branch = master
