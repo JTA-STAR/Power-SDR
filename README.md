@@ -61,4 +61,9 @@ Rustdesk client
 j-star/raspberry
 Modify root password: sudo passwd root 
 
+## Feedback
+https://www.facebook.com/groups/v3f446 (Facebook)
+https://t.me/+HTzVv--5ZLs1YWU1 (Telegram)
+https://discord.gg/JySeg9BgaN (Discord)
+
 VY 73 BI7JTA
