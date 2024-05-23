@@ -51,14 +51,20 @@ Manager page login (admin/admin)
 ## SVXlink:
 [http://192.168.0.0:8888](http://192.168.0.0:8888)
 
+Login: svxlink/password
+
 ## VNC: 
 RealVNC client app, for macOS, windows
+Login: j-star/raspberry
 
 ## Remote desktop control: 
-Rustdesk client
+Rustdesk client, ID and password change yourself , after login desktop use RealVNC, HDMI/Keyboard, add to boot automatic https://discord.com/channels/1112355660278022217/1234828575694389279/1238637324787777708
 
 ## Login: 
 j-star/raspberry
 Modify root password: sudo passwd root 
+
+## Discord
+Welcome to join. https://discord.gg/JySeg9BgaN
 
 VY 73 BI7JTA
