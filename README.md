@@ -20,6 +20,8 @@ Raspberry Pi 4B2G, 4B4G, 3B, 3A ZW performance is relatively poor (not supportin
 ## Based on: 
 [https://github.com/luarvique/openwebrx](https://github.com/luarvique/openwebrx) (OpenWebRX+ 1.2.49 Image for Raspberry Pi 4, sudo install-softmbe.sh)
 
+Openwebrx Plus document `https://fms.komkon.org/OWRX`
+
 ## Additional integration with the following projects:
 - SDR++: [https://github.com/AlexandreRouma/SDRPlusPlus.git](https://github.com/AlexandreRouma/SDRPlusPlus.git)
 - SvxLink: [https://github.com/sm0svx/svxlink](https://github.com/sm0svx/svxlink)
